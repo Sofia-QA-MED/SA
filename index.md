@@ -1,5 +1,5 @@
 # Софья Спиридонова
-<img src="photo.jpg" alt="Софья Спиридонова" width="180" align="right" >
+<img src="photo.jpg" width="180" align="right" >
 **Технический писатель** · Екатеринбург · удалённо
 
 [sophyasergeevna@yandex.ru](mailto:sophyasergeevna@yandex.ru) · [GitHub](https://sofia-qa-med.github.io/Sofia-SA-MED.github.io) · [Сетка](https://set.ki/account/TDdZjn6)
