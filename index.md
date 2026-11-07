@@ -63,7 +63,7 @@
 - Программы раскроя листового металла для станков с ЧПУ (CNC cad, AutoCad, Punch)
 
 ## Проекты
-- **[SRS](https://github.com/Sofia-QA-MED/SRS)** — макет страницы требований к аппарату ИВЛ в стиле Codebeamer
+- **[SRS](https://sofia-qa-med.github.io/SRS/)** — макет страницы требований к аппарату ИВЛ в стиле Codebeamer
 - **[python_autotests](https://github.com/Sofia-QA-MED/python_autotests)** — пример API-автотестов на pytest + requests
 - **[cypress.js](https://github.com/Sofia-QA-MED/cypress.js)** — UI-автотесты регресса на Cypress
 
