@@ -1,6 +1,6 @@
 # Софья Спиридонова
 <img src="photo.jpg" width="160" align="right" >
-**Системный аналитик** · удалённо
+**Системный аналитик встроенного ПО** · удалённо
 
 [sophyasergeevna@yandex.ru](mailto:sophyasergeevna@yandex.ru) · [GitHub](https://sofia-qa-med.github.io/Sofia-SA-MED.github.io) · [Сетка](https://set.ki/account/TDdZjn6)
 
