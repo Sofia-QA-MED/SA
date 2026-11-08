@@ -127,9 +127,10 @@
 - **Результат:** Подготовила библиотеки раскроя части номенклатуры деталей для разных типов станков и габаритов материалов
 
 ## Проекты
-- **[SRS](https://sofia-qa-med.github.io/SRS/)** — макет страницы требований к аппарату ИВЛ в стиле Codebeamer: демонстрирует подход к структуре требований, спецификациям и управлению ими
-- **[python_autotests](https://github.com/Sofia-QA-MED/python_autotests)** — пример API-автотестов на pytest + requests
-- **[cypress.js](https://github.com/Sofia-QA-MED/cypress.js)** — UI-автотесты регресса на Cypress
+- **[SRS](https://sofia-qa-med.github.io/SRS/)** - макет страницы требований к аппарату ИВЛ в стиле Codebeamer: демонстрирует подход к структуре требований, спецификациям и управлению ими
+- **[python_autotests](https://github.com/Sofia-QA-MED/python_autotests)** - пример API-автотестов на pytest + requests
+- **[cypress.js](https://github.com/Sofia-QA-MED/cypress.js)** - UI-автотесты регресса на Cypress
+- **[NSI](https://github.com/Sofia-QA-MED/vgh-extractor)** - Автоматизация заполнения карточек весогабаритных характеристик для ресурсных спецификаций 1С
 
 ## Образование
 **Уральский федеральный университет**, 2012
